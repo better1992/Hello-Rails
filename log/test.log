@@ -1,0 +1,98 @@
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.4ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.3ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 21:53:30 +0700
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 21:53:35 +0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 23ms (Views: 22.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:05:46 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (2.3ms)
+Completed 200 OK in 339ms (Views: 323.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:08:34 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 313ms (Views: 294.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:09:37 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 295ms (Views: 275.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:09:50 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 293ms (Views: 277.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:11:54 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 281ms (Views: 266.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:16:16 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 292ms (Views: 274.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:16:22 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.7ms)
+Completed 200 OK in 434ms (Views: 410.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:18:05 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 376ms (Views: 358.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:18:23 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 316ms (Views: 299.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.2ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:29:36 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 333ms (Views: 318.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/tasks" for 127.0.0.1 at 2016-03-01 22:30:45 +0700
+Processing by TasksController#index as HTML
+  Rendered tasks/index.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 318ms (Views: 300.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
