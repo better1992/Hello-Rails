@@ -56,7 +56,7 @@ RSpec.configure do |config|
   # arbitrary gems may also be filtered via:
   # config.filter_gems_from_backtrace("gem name")
   config.expect_with :rspec do |c|
-    c.syntax = :should
+    c.syntax = [:should, :expect, :create]
   end
   config.mock_with :rspec do |c|
     c.syntax = :should
